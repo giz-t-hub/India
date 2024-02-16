@@ -16,11 +16,12 @@ Have something to add or change? Contact: daniel.moser@giz.de
 - [Road safety](#road-safety)
 - [Gender and Equality](#gender) 
 - [Pandemic](#pandemic)
+- [Alternative Fuels](#alternative-fuels)
 - [Others](#others)
 
   
 ### Capacity Development <a name="capacity-development"></a> 
-
+- Capacity Development Strategy: https://github.com/giz-t-hub/india/blob/main/2022%20Capacity%20Development%20Strategy.pdf 
 - Training Needs Assessement for Electric Buses 1: https://github.com/giz-t-hub/india/blob/main/TNA%20Vol%20I%20Report%20-%20Identification%20of%20Training%20Needs%20(1).pdf
 - Training Needs Assessement for Electric Buses 2: https://github.com/giz-t-hub/india/blob/main/TNA-Vol-II-E-Bus-Training-Programme-Structure-08-2021.pdf
 - Training Needs Assessement for Electric Buses 3: https://github.com/giz-t-hub/india/blob/main/TNA-Vol-III-Proposed-Organisational-Structure-08-2021.pdf
@@ -29,6 +30,8 @@ Have something to add or change? Contact: daniel.moser@giz.de
 - Capacity Assessment and Enhancement for Safe Street Design 3: https://github.com/giz-t-hub/india/blob/main/Vol%203_CCMC_Training%20Proceedings%20report.pdf
 - Capacity Assessment and Enhancement for Safe Street Design 4: https://github.com/giz-t-hub/india/blob/main/Vol%204_CCMC_Quick%20reference%20guidebook%20for%20street%20design.pdf
 - Capacity Assessment and Enhancement for Safe Street Design 5: https://github.com/giz-t-hub/india/blob/main/Vol%205_NMT%20Case%20Studies_Success%20stories.pdf
+- Building a Rickshaw Cooperative: https://github.com/giz-t-hub/india/blob/main/2022%20Organising%20Intermediate%20Public%20Transport%2C%20EJADCS.pdf
+- Executive Programme Sustainable Transport: https://github.com/giz-t-hub/india/blob/main/2022%20Executive%20Programme%20in%20Sustainable%20Transport.pdf
 
     
 ### Non Motorised Transport <a name="non-motorised-transport"></a> 
@@ -54,6 +57,7 @@ Have something to add or change? Contact: daniel.moser@giz.de
 
 ### Gender and Equality <a name="gender"></a> 
 - Gender and Mobility, Kerala: https://github.com/giz-t-hub/india/blob/main/Gender%20and%20Mobility.pdf
+- Gender Mainstreaming in Transport: https://github.com/giz-t-hub/india/blob/main/2023%20Gender%20Mainstreaming%20in%20Transport.pdf
 
 
 ### Pandemic <a name="pandemic"></a>
@@ -61,6 +65,10 @@ Have something to add or change? Contact: daniel.moser@giz.de
 - Global Impact Study COVID 19 on Cities and Mobility: https://github.com/giz-t-hub/india/blob/main/2020_Global_Impact_COVID-19_Cities_and_Mobility(1).pdf
 - Indian Impact Study COVID 19 on Cities and Mobility: https://github.com/giz-t-hub/india/blob/main/2020_Impact_COVID-19_Indian_Cities_and_Mobility(1).pdf
 
+
+### Alternative Fuels <a name="alternative-fuels"></a> 
+- City Electric Mobility Strategy: https://github.com/giz-t-hub/india/blob/main/2022%20City%20Electric%20Mobility%20Strategy%20(CEMS).pdf
+- 
 
 ### Others <a name="others"></a>  
 
