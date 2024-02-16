@@ -38,6 +38,8 @@ Have something to add or change? Contact: daniel.moser@giz.de
 
 ### Pandemic <a name="pandemic"></a>
 
+- https://github.com/giz-t-hub/india/blob/main/2020_Global_Impact_COVID-19_Cities_and_Mobility(1).pdf
+- https://github.com/giz-t-hub/india/blob/main/2020_Impact_COVID-19_Indian_Cities_and_Mobility(1).pdf
 
 
 ### Others <a name="others"></a>  
