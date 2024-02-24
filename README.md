@@ -83,17 +83,17 @@ Have something to add or change? Contact: daniel.moser@giz.de
 
 
    - ### Capacity Development <a name="capacity-development"></a> 
-  - Capacity Development Strategy: https://github.com/giz-t-hub/india/blob/main/2022%20Capacity%20Development%20Strategy.pdf 
-  - Training Needs Assessement for Electric Buses 1: https://github.com/giz-t-hub/india/blob/main/TNA%20Vol%20I%20Report%20-%20Identification%20of%20Training%20Needs%20(1).pdf
-  - Training Needs Assessement for Electric Buses 2: https://github.com/giz-t-hub/india/blob/main/TNA-Vol-II-E-Bus-Training-Programme-Structure-08-2021.pdf
-  - Training Needs Assessement for Electric Buses 3: https://github.com/giz-t-hub/india/blob/main/TNA-Vol-III-Proposed-Organisational-Structure-08-2021.pdf
-  - Capacity Assessment and Enhancement for Safe Street Design 1: https://github.com/giz-t-hub/india/blob/main/Vol%201_CCMC%20Training%20needs%20assessment.pdf
-  - Capacity Assessment and Enhancement for Safe Street Design 2: https://github.com/giz-t-hub/india/blob/main/Vol%202_CCMC-Curriculum%20and%20Training%20Modules.pdf
-  - Capacity Assessment and Enhancement for Safe Street Design 3: https://github.com/giz-t-hub/india/blob/main/Vol%203_CCMC_Training%20Proceedings%20report.pdf
-  - Capacity Assessment and Enhancement for Safe Street Design 4: https://github.com/giz-t-hub/india/blob/main/Vol%204_CCMC_Quick%20reference%20guidebook%20for%20street%20design.pdf
-  - Capacity Assessment and Enhancement for Safe Street Design 5: https://github.com/giz-t-hub/india/blob/main/Vol%205_NMT%20Case%20Studies_Success%20stories.pdf
-  - Building a Rickshaw Cooperative: https://github.com/giz-t-hub/india/blob/main/2022%20Organising%20Intermediate%20Public%20Transport%2C%20EJADCS.pdf
-  - Executive Programme Sustainable Transport: https://github.com/giz-t-hub/india/blob/main/2022%20Executive%20Programme%20in%20Sustainable%20Transport.pdf
+    - Capacity Development Strategy: https://github.com/giz-t-hub/india/blob/main/2022%20Capacity%20Development%20Strategy.pdf 
+    - Training Needs Assessement for Electric Buses 1: https://github.com/giz-t-hub/india/blob/main/TNA%20Vol%20I%20Report%20-%20Identification%20of%20Training%20Needs%20(1).pdf
+    - Training Needs Assessement for Electric Buses 2: https://github.com/giz-t-hub/india/blob/main/TNA-Vol-II-E-Bus-Training-Programme-Structure-08-2021.pdf
+    - Training Needs Assessement for Electric Buses 3: https://github.com/giz-t-hub/india/blob/main/TNA-Vol-III-Proposed-Organisational-Structure-08-2021.pdf
+    - Capacity Assessment and Enhancement for Safe Street Design 1: https://github.com/giz-t-hub/india/blob/main/Vol%201_CCMC%20Training%20needs%20assessment.pdf
+    - Capacity Assessment and Enhancement for Safe Street Design 2: https://github.com/giz-t-hub/india/blob/main/Vol%202_CCMC-Curriculum%20and%20Training%20Modules.pdf
+    - Capacity Assessment and Enhancement for Safe Street Design 3: https://github.com/giz-t-hub/india/blob/main/Vol%203_CCMC_Training%20Proceedings%20report.pdf
+    - Capacity Assessment and Enhancement for Safe Street Design 4: https://github.com/giz-t-hub/india/blob/main/Vol%204_CCMC_Quick%20reference%20guidebook%20for%20street%20design.pdf
+    - Capacity Assessment and Enhancement for Safe Street Design 5: https://github.com/giz-t-hub/india/blob/main/Vol%205_NMT%20Case%20Studies_Success%20stories.pdf
+    - Building a Rickshaw Cooperative: https://github.com/giz-t-hub/india/blob/main/2022%20Organising%20Intermediate%20Public%20Transport%2C%20EJADCS.pdf
+    - Executive Programme Sustainable Transport: https://github.com/giz-t-hub/india/blob/main/2022%20Executive%20Programme%20in%20Sustainable%20Transport.pdf
   
   ### Non Motorised Transport <a name="non-motorised-transport"></a> 
   - Public Bike Sharing (PBS): https://github.com/giz-t-hub/india/blob/main/Evolution-of-PBS-Public-Bicycle-Sharing-Systems-in-India_Updated(1).pdf
