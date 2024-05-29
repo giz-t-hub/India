@@ -151,7 +151,7 @@ Disclaimer: Findings, interpretations and conclusions expressed in this document
 Contributors:
 -
 
-Compiled by / Contact:
+Compiled by / Contact: Daniel Moser
 
 
   
