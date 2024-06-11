@@ -135,7 +135,9 @@ Have something to add or change? Contact: daniel.moser@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
--
+### Reports and studies
+- Electric mobility:
+  - Market Assessment for Intercity Electric Buses in India, 2024: https://media.licdn.com/dms/document/media/D561FAQGWHXbxq2Sw9A/feedshare-document-pdf-analyzed/0/1718086557953?e=1718841600&v=beta&t=KqadhtOw0daDyYocqsCMX02SUncM9fF__ZRj7BfwsPg
 
 ### Data <a name="data"></a>
 
@@ -143,15 +145,21 @@ Have something to add or change? Contact: daniel.moser@giz.de
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 - Asian Transport Outlook: https://asiantransportoutlook.com/ 
 
+Overview/Table of Content: https://github.com/giz-t-hub/Overview
 
+Disclaimer: Findings, interpretations and conclusions expressed in this repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this repository doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
-Disclaimer: Findings, interpretations and conclusions expressed in this document are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of documents (plans, strategies, etc), companies, academia or other stakeholders (or their logos, contact details or other information) in this documents doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to data, information, offers and proposals.
+For more information about our work, please refer to:
+
+- Changing Transport: https://changing-transport.org/
+- Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility.org/
+- MobiliseYourCity: https://www.mobiliseyourcity.net/
 
 
 Contributors:
--
+- 
 
-Compiled by / Contact: Daniel Moser
+Compiled by / Contact: Daniel Moser, Armin Wagner
 
 
   
