@@ -18,7 +18,7 @@ Have something to add or change? Contact: daniel.moser@giz.de
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
 - [Studies and research papers](#studies-research)
   - [Capacity Development](#Capacity-Development)
   - [Non Motorised Transport](#non-motorised-transport) 
@@ -75,7 +75,7 @@ Have something to add or change? Contact: daniel.moser@giz.de
 
 -
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 -
 
