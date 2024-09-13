@@ -118,6 +118,7 @@ Have something to add or change? Contact: daniel.moser@giz.de
   ### Gender and Equality <a name="gender"></a> 
   - Gender and Mobility, Kerala: https://github.com/giz-t-hub/india/blob/main/Gender%20and%20Mobility.pdf
   - Gender Mainstreaming in Transport: https://github.com/giz-t-hub/india/blob/main/2023%20Gender%20Mainstreaming%20in%20Transport.pdf
+  - <b> India - Toolkit for Enabling Gender Responsive Urban Mobility and Public Spaces </b> https://openknowledge.worldbank.org/entities/publication/128bcb06-0fc4-5c1d-9a2b-fc6e9ce47b03 - *This toolkit is intended to be a practice guide towards introducing gender equality and women’s empowerment principles in designing urban mobility systems and public spaces so that they mitigate rather than reinforce gender inequalities. The toolkit is divided into two volumes, with the first volume focused on high level guidance for policymakers, while the second provides a ‘How-to’ guide including practical tools for implementing agencies.*
 
   ### Pandemic <a name="pandemic"></a>
   - Standard Operating Procedures for Public Transport, COVID 19: https://github.com/giz-t-hub/india/blob/main/Covid%2019%20note%20on%20public%20transport%20from%20Smart%20SUT.pdf
