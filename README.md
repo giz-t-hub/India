@@ -51,6 +51,8 @@ Have something to add or change? Contact: daniel.moser@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
+  - <b> Biennial update report (BUR) </b> . BUR 4., Ministry of Environment, Forest and Climate Change, Government of India, December 2024: https://unfccc.int/documents/645149 - *The Fourth Biennial Update Report (BUR-4) updates the Third National Communication (TNC), which was 
+submitted to the UNFCCC in December 2023. This report (BUR-4) contains the National Greenhouse Gas (GHG) inventory for the year 2020.*
     
 - Adaptation
    
