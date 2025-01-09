@@ -14,7 +14,7 @@ Have something to add or change? Contact: daniel.moser@giz.de
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
-- [EU accession](#eu-accession)
+- [EU cooperation](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
@@ -61,7 +61,7 @@ submitted to the UNFCCC in December 2023. This report (BUR-4) contains the Natio
     
 
 
-### EU accession and cooperation <a name="eu-accession"></a> 
+### EU cooperation <a name="eu-accession"></a> 
 
 - 
 
